@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/FlappyBird-Game/static/css/main.dab8e66b.css",
+    "main.css": "/FlappyBird-Game/static/css/main.942e73dc.css",
     "main.js": "/FlappyBird-Game/static/js/main.88162e62.js",
     "static/media/bird.png": "/FlappyBird-Game/static/media/bird.ba0d66104b9c72b42aca.png",
     "index.html": "/FlappyBird-Game/index.html",
-    "main.dab8e66b.css.map": "/FlappyBird-Game/static/css/main.dab8e66b.css.map",
+    "main.942e73dc.css.map": "/FlappyBird-Game/static/css/main.942e73dc.css.map",
     "main.88162e62.js.map": "/FlappyBird-Game/static/js/main.88162e62.js.map"
   },
   "entrypoints": [
-    "static/css/main.dab8e66b.css",
+    "static/css/main.942e73dc.css",
     "static/js/main.88162e62.js"
   ]
 }
